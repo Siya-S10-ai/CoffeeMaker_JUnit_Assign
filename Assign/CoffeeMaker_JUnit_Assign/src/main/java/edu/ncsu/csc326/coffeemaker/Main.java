@@ -42,7 +42,6 @@ public class Main {
         System.out.println("6. Make coffee");
         System.out.println("0. Exit\n");
         
-        
         //Get user input
         try {
         	int userInput = Integer.parseInt(inputOutput("Please press the number that corresponds to what you would like the coffee maker to do."));
